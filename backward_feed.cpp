@@ -72,7 +72,10 @@ public:     //  beHaviors
         cout << "Starting of input : " << input << "----------------------------"<< endl;
         cout << "w : " << this->w_ << "         b : " << this->b_<< endl;
         int num = 0;
-        while(num < 2001)
+        double escape_condition = 100.0 * std::numeric_limits<double>::epsilon();
+        double result = 0;
+        //while(floorf(feedForward(input)*100)/100 < 4.0)   // A problem occurs when the value is greater than 4.0.
+        while((4.0 - result) > escape_condition || (4.0000001 - result) < escape_condition)       
         {
             num ++;
             propBackward(4.0);
@@ -82,6 +85,7 @@ public:     //  beHaviors
                 cout <<"input: "<<  input<< "      output :   " << feedForward(input)<< endl;
                 cout << "w : " << this->w_ << "         b : " << this->b_<< endl;
             }
+           result = feedForward(input);
         }
         
     }
