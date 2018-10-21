@@ -1,0 +1,765 @@
+Starting of input : 0----------------------------
+w : 2         b : 1
+Training : 20th 
+input: 0      output :   1.55454
+w : 2         b : 1.55454
+Training : 40th 
+input: 0      output :   1.99984
+w : 2         b : 1.99984
+Training : 60th 
+input: 0      output :   2.36406
+w : 2         b : 2.36406
+Training : 80th 
+input: 0      output :   2.66195
+w : 2         b : 2.66195
+Training : 100th 
+input: 0      output :   2.9056
+w : 2         b : 2.9056
+Training : 120th 
+input: 0      output :   3.10488
+w : 2         b : 3.10488
+Training : 140th 
+input: 0      output :   3.26788
+w : 2         b : 3.26788
+Training : 160th 
+input: 0      output :   3.40119
+w : 2         b : 3.40119
+Training : 180th 
+input: 0      output :   3.51023
+w : 2         b : 3.51023
+Training : 200th 
+input: 0      output :   3.59941
+w : 2         b : 3.59941
+Training : 220th 
+input: 0      output :   3.67236
+w : 2         b : 3.67236
+Training : 240th 
+input: 0      output :   3.73202
+w : 2         b : 3.73202
+Training : 260th 
+input: 0      output :   3.78082
+w : 2         b : 3.78082
+Training : 280th 
+input: 0      output :   3.82073
+w : 2         b : 3.82073
+Training : 300th 
+input: 0      output :   3.85337
+w : 2         b : 3.85337
+Training : 320th 
+input: 0      output :   3.88007
+w : 2         b : 3.88007
+Training : 340th 
+input: 0      output :   3.90191
+w : 2         b : 3.90191
+Training : 360th 
+input: 0      output :   3.91977
+w : 2         b : 3.91977
+Training : 380th 
+input: 0      output :   3.93438
+w : 2         b : 3.93438
+Training : 400th 
+input: 0      output :   3.94633
+w : 2         b : 3.94633
+Training : 420th 
+input: 0      output :   3.9561
+w : 2         b : 3.9561
+Training : 440th 
+input: 0      output :   3.9641
+w : 2         b : 3.9641
+Training : 460th 
+input: 0      output :   3.97063
+w : 2         b : 3.97063
+Training : 480th 
+input: 0      output :   3.97598
+w : 2         b : 3.97598
+Training : 500th 
+input: 0      output :   3.98035
+w : 2         b : 3.98035
+Training : 520th 
+input: 0      output :   3.98393
+w : 2         b : 3.98393
+Training : 540th 
+input: 0      output :   3.98686
+w : 2         b : 3.98686
+Training : 560th 
+input: 0      output :   3.98925
+w : 2         b : 3.98925
+Training : 580th 
+input: 0      output :   3.99121
+w : 2         b : 3.99121
+Training : 600th 
+input: 0      output :   3.99281
+w : 2         b : 3.99281
+Training : 620th 
+input: 0      output :   3.99412
+w : 2         b : 3.99412
+Training : 640th 
+input: 0      output :   3.99519
+w : 2         b : 3.99519
+Training : 660th 
+input: 0      output :   3.99607
+w : 2         b : 3.99607
+Training : 680th 
+input: 0      output :   3.99678
+w : 2         b : 3.99678
+Training : 700th 
+input: 0      output :   3.99737
+w : 2         b : 3.99737
+Training : 720th 
+input: 0      output :   3.99785
+w : 2         b : 3.99785
+Training : 740th 
+input: 0      output :   3.99824
+w : 2         b : 3.99824
+Training : 760th 
+input: 0      output :   3.99856
+w : 2         b : 3.99856
+Training : 780th 
+input: 0      output :   3.99882
+w : 2         b : 3.99882
+Training : 800th 
+input: 0      output :   3.99904
+w : 2         b : 3.99904
+Training : 820th 
+input: 0      output :   3.99921
+w : 2         b : 3.99921
+Training : 840th 
+input: 0      output :   3.99936
+w : 2         b : 3.99936
+Training : 860th 
+input: 0      output :   3.99947
+w : 2         b : 3.99947
+Training : 880th 
+input: 0      output :   3.99957
+w : 2         b : 3.99957
+Training : 900th 
+input: 0      output :   3.99965
+w : 2         b : 3.99965
+Training : 920th 
+input: 0      output :   3.99971
+w : 2         b : 3.99971
+Training : 940th 
+input: 0      output :   3.99976
+w : 2         b : 3.99976
+Training : 960th 
+input: 0      output :   3.99981
+w : 2         b : 3.99981
+Training : 980th 
+input: 0      output :   3.99984
+w : 2         b : 3.99984
+Training : 1000th 
+input: 0      output :   3.99987
+w : 2         b : 3.99987
+Training : 1020th 
+input: 0      output :   3.99989
+w : 2         b : 3.99989
+Training : 1040th 
+input: 0      output :   3.99991
+w : 2         b : 3.99991
+Training : 1060th 
+input: 0      output :   3.99993
+w : 2         b : 3.99993
+Training : 1080th 
+input: 0      output :   3.99994
+w : 2         b : 3.99994
+Training : 1100th 
+input: 0      output :   3.99995
+w : 2         b : 3.99995
+Training : 1120th 
+input: 0      output :   3.99996
+w : 2         b : 3.99996
+Training : 1140th 
+input: 0      output :   3.99997
+w : 2         b : 3.99997
+Training : 1160th 
+input: 0      output :   3.99997
+w : 2         b : 3.99997
+Training : 1180th 
+input: 0      output :   3.99998
+w : 2         b : 3.99998
+Training : 1200th 
+input: 0      output :   3.99998
+w : 2         b : 3.99998
+Training : 1220th 
+input: 0      output :   3.99999
+w : 2         b : 3.99999
+Training : 1240th 
+input: 0      output :   3.99999
+w : 2         b : 3.99999
+Training : 1260th 
+input: 0      output :   3.99999
+w : 2         b : 3.99999
+Training : 1280th 
+input: 0      output :   3.99999
+w : 2         b : 3.99999
+Training : 1300th 
+input: 0      output :   3.99999
+w : 2         b : 3.99999
+Training : 1320th 
+input: 0      output :   3.99999
+w : 2         b : 3.99999
+Training : 1340th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1360th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1380th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1400th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1420th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1440th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1460th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1480th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1500th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1520th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1540th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1560th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1580th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1600th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1620th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1640th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1660th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1680th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1700th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1720th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1740th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1760th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1780th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1800th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1820th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1840th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1860th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1880th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1900th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1920th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1940th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1960th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 1980th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2000th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2020th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2040th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2060th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2080th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2100th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2120th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2140th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2160th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2180th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2200th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2220th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2240th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2260th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2280th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2300th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2320th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2340th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2360th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2380th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2400th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2420th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2440th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2460th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2480th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2500th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2520th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2540th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2560th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2580th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2600th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2620th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2640th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2660th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2680th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2700th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2720th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2740th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2760th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2780th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2800th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2820th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2840th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2860th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2880th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2900th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2920th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2940th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2960th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 2980th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3000th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3020th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3040th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3060th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3080th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3100th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3120th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3140th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3160th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3180th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3200th 
+input: 0      output :   4
+w : 2         b : 4
+Training : 3220th 
+input: 0      output :   4
+w : 2         b : 4
+Starting of input : 1----------------------------
+w : 2         b : 1
+Training : 20th 
+input: 1      output :   3.31877
+w : 2.15938         b : 1.15938
+Training : 40th 
+input: 1      output :   3.5452
+w : 2.2726         b : 1.2726
+Training : 60th 
+input: 1      output :   3.69637
+w : 2.34819         b : 1.34819
+Training : 80th 
+input: 1      output :   3.7973
+w : 2.39865         b : 1.39865
+Training : 100th 
+input: 1      output :   3.86467
+w : 2.43234         b : 1.43234
+Training : 120th 
+input: 1      output :   3.90966
+w : 2.45483         b : 1.45483
+Training : 140th 
+input: 1      output :   3.93969
+w : 2.46984         b : 1.46984
+Training : 160th 
+input: 1      output :   3.95973
+w : 2.47987         b : 1.47987
+Training : 180th 
+input: 1      output :   3.97312
+w : 2.48656         b : 1.48656
+Training : 200th 
+input: 1      output :   3.98205
+w : 2.49103         b : 1.49103
+Training : 220th 
+input: 1      output :   3.98802
+w : 2.49401         b : 1.49401
+Training : 240th 
+input: 1      output :   3.992
+w : 2.496         b : 1.496
+Training : 260th 
+input: 1      output :   3.99466
+w : 2.49733         b : 1.49733
+Training : 280th 
+input: 1      output :   3.99643
+w : 2.49822         b : 1.49822
+Training : 300th 
+input: 1      output :   3.99762
+w : 2.49881         b : 1.49881
+Training : 320th 
+input: 1      output :   3.99841
+w : 2.49921         b : 1.49921
+Training : 340th 
+input: 1      output :   3.99894
+w : 2.49947         b : 1.49947
+Training : 360th 
+input: 1      output :   3.99929
+w : 2.49965         b : 1.49965
+Training : 380th 
+input: 1      output :   3.99953
+w : 2.49976         b : 1.49976
+Training : 400th 
+input: 1      output :   3.99968
+w : 2.49984         b : 1.49984
+Training : 420th 
+input: 1      output :   3.99979
+w : 2.49989         b : 1.49989
+Training : 440th 
+input: 1      output :   3.99986
+w : 2.49993         b : 1.49993
+Training : 460th 
+input: 1      output :   3.99991
+w : 2.49995         b : 1.49995
+Training : 480th 
+input: 1      output :   3.99994
+w : 2.49997         b : 1.49997
+Training : 500th 
+input: 1      output :   3.99996
+w : 2.49998         b : 1.49998
+Training : 520th 
+input: 1      output :   3.99997
+w : 2.49999         b : 1.49999
+Training : 540th 
+input: 1      output :   3.99998
+w : 2.49999         b : 1.49999
+Training : 560th 
+input: 1      output :   3.99999
+w : 2.49999         b : 1.49999
+Training : 580th 
+input: 1      output :   3.99999
+w : 2.5         b : 1.5
+Training : 600th 
+input: 1      output :   3.99999
+w : 2.5         b : 1.5
+Training : 620th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 640th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 660th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 680th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 700th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 720th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 740th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 760th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 780th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 800th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 820th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 840th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 860th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 880th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 900th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 920th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 940th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 960th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 980th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1000th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1020th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1040th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1060th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1080th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1100th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1120th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1140th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1160th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1180th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1200th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1220th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1240th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1260th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1280th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1300th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1320th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1340th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1360th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1380th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1400th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1420th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1440th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1460th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1480th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1500th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1520th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Training : 1540th 
+input: 1      output :   4
+w : 2.5         b : 1.5
+Starting of input : 2----------------------------
+w : 2         b : 1
+Training : 20th 
+input: 2      output :   4.37735
+w : 1.75094         b : 0.875471
+Training : 40th 
+input: 2      output :   4.13528
+w : 1.65411         b : 0.827055
+Training : 60th 
+input: 2      output :   4.04849
+w : 1.6194         b : 0.809699
+Training : 80th 
+input: 2      output :   4.01738
+w : 1.60695         b : 0.803477
+Training : 100th 
+input: 2      output :   4.00623
+w : 1.60249         b : 0.801246
+Training : 120th 
+input: 2      output :   4.00223
+w : 1.60089         b : 0.800447
+Training : 140th 
+input: 2      output :   4.0008
+w : 1.60032         b : 0.80016
+Training : 160th 
+input: 2      output :   4.00029
+w : 1.60011         b : 0.800057
+Training : 180th 
+input: 2      output :   4.0001
+w : 1.60004         b : 0.800021
+Training : 200th 
+input: 2      output :   4.00004
+w : 1.60001         b : 0.800007
+Training : 220th 
+input: 2      output :   4.00001
+w : 1.60001         b : 0.800003
+Training : 240th 
+input: 2      output :   4
+w : 1.6         b : 0.800001
+Training : 260th 
+input: 2      output :   4
+w : 1.6         b : 0.8
+Training : 280th 
+input: 2      output :   4
+w : 1.6         b : 0.8
+Training : 300th 
+input: 2      output :   4
+w : 1.6         b : 0.8
