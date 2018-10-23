@@ -3,6 +3,9 @@
 #include <cmath>
 #include <vector>
 #include <algorithm>
+
+#include "differential.h"
+
 using namespace std;
 
 class Neuron
@@ -95,7 +98,9 @@ public:     //  beHaviors
 int main()
 {
     //my_neuron.feedForwardAndPrint(2.0);
-
+    Differential mydiff(1.0, 0.1, 0.2, 0.5, 0.1);
+    cout << "Differential ======" << mydiff.getDfdx()<< endl;
+    cout << "New Differential ======" << mydiff.getNewDfdx()<< endl;
     for (double input = 0.0; input < 3.0; input += 1.0)
     {
         Neuron my_neuron(2.0, 1.0);
