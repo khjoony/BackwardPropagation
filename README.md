@@ -7,5 +7,5 @@ Excute:
     git clone https://github.com/khjoony/Backwardpropagation.git
     cd Backwardpropagation
     g++ -o bf backward_feed.cpp 
-    ./bf > result.txt  // input result to test.txt
+    ./bf > result.txt  // input result to result.txt
     vi result.txt
